@@ -1,0 +1,10 @@
+Criar uma classe chama Pessoa
+Essa classe deve conter os seguintes atributos publicos
+-nome
+e os seguintes atributos protegidos
+-idade
+-cpf
+
+o cpf não pode ser alterado, mas pode ser acessado
+a idade só podera ser alterada caso o novo valor seja maior que o anterior;.
+

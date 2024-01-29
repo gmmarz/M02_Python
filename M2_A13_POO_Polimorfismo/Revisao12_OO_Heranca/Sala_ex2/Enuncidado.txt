@@ -1,0 +1,19 @@
+classe conta
+atributos publicos
+nome 
+telefone_contato
+
+protegidos
+cdf
+
+atributos privados
+saldo
+
+metodos
+deposito
+saque
+
+cdpf não podere ser alterado, mas pode ser acessado
+saldo não poderá ser alterado diretamente, porem ele poderá ser alterado atraves do metodo "deposito" que vai adicionar um valor ao 
+saldo
+ou utilizando a funcao saque que vai diminuir um valor do saldo.

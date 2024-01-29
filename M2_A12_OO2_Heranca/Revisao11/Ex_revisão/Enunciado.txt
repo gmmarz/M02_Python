@@ -1,0 +1,8 @@
+Criar classe pessoa
+atr - nome , idade, cpf
+metodos
+andar
+correr
+
+instanciar dois objetos a partir dessa classe
+instanciar é criar um objeto a partir de uma classe
